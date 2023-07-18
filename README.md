@@ -1,13 +1,5 @@
-[![Build Status](https://semaphoreci.com/api/v1/xavifortes/python-udp-flood/branches/master/badge.svg)](https://semaphoreci.com/xavifortes/python-udp-flood)
-
-[![Build Status](https://xavifortes.semaphoreci.com/badges/Python-UDP-Flood/branches/set-up-semaphore.svg?style=shields)](https://xavifortes.semaphoreci.com/projects/Python-UDP-Flood)
-
-[![Build Status](https://travis-ci.org/XaviFortes/Python-UDP-Flood.svg?branch=master)](https://travis-ci.org/XaviFortes/Python-UDP-Flood)
-
-[![JK](https://forthebadge.com/images/badges/built-by-developers.svg)](https://github.com/XaviFortes) [![JK](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://github.com/XaviFortes) [![JK](https://forthebadge.com/images/badges/built-with-grammas-recipe.svg)](https://github.com/XaviFortes)
-[![JK](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/XaviFortes)
-
 # Python-UDP-Flood
+### Linux
 Very basic DOS attack made with python.
 
 It can be converted into a DDOS attack using multiple computers.
